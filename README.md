@@ -1,2 +1,2 @@
 # text_classifier
-spam text classifier
+Spam text NLP classifier.Used Nltk and sci-kit learn libraries.
